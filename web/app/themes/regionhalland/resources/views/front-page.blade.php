@@ -10,7 +10,7 @@
                     <li class="left-align col col-12 sm-col-6 md-col-4 lg-col-4">
                         <div class="rh-blurb mx1 my2" style="border-bottom: 4px solid #E99579; background:white;">
                             <div style="height: 200px; overflow:hidden;position:relative">
-                                <img src="{!! $myBlurbs[0]['image_url'] !!}" style="width:100%; position: absolute; top:50%; transform: translateY(-50%);">
+                                <img src="{!! $myBlurbs[0]['image_url'] !!}" alt="{!! $myBlurbs[0]['image_alt'] !!}" style="width:100%; position: absolute; top:50%; transform: translateY(-50%);">
                             </div>
                             <div class="mx2 pt2 rh-blurb__description" >
                                 @if($myBlurbs[0]['link_title'])
@@ -26,7 +26,7 @@
                     <li class="left-align  col col-12 sm-col-6 md-col-4 lg-col-4">
                         <div class="rh-blurb mx1 my2" style="border-bottom: 4px solid #E99579; background: white; ">
                             <div style="height: 200px; overflow:hidden;position:relative">
-                                <img src="{!! $myBlurbs[1]['image_url'] !!}" style="width:100%; position: absolute; top:50%; transform: translateY(-50%);">
+                                <img src="{!! $myBlurbs[1]['image_url'] !!}" alt="{!! $myBlurbs[1]['image_alt'] !!}" style="width:100%; position: absolute; top:50%; transform: translateY(-50%);">
                             </div>
                             <div class="rh-blurb__description mx2 pt2" >
                                 @if($myBlurbs[1]['link_title'])
@@ -42,7 +42,7 @@
                     <li class="left-align  col col-12 sm-col-12 md-col-4 lg-col-4">
                         <div class="rh-blurb mx1 my2" style="border-bottom: 4px solid #E99579; background: white;">
                             <div style="height: 200px; overflow:hidden;position:relative">
-                                <img src="{!! $myBlurbs[2]['image_url'] !!}" style="width:100%; position: absolute; top:50%; transform: translateY(-50%);">
+                                <img src="{!! $myBlurbs[2]['image_url'] !!}" alt="{!! $myBlurbs[2]['image_alt'] !!}" style="width:100%; position: absolute; top:50%; transform: translateY(-50%);">
                             </div>
                             <div class="mx2 pt2 rh-blurb__description">
                                 @if($myBlurbs[2]['link_title'])
