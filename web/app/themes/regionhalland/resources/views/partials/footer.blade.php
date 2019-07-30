@@ -1,4 +1,4 @@
-<footer class="rh-footer-logo mx-auto mt1" id="footer-top-placeholder" style="max-width: 1440px;">
+<div class="rh-footer-logo mx-auto mt1" id="footer-top-placeholder" style="max-width: 1440px;">
 
     <div class="rh-footer-logo-div">
         <a href="https://www.regionhalland.se"><img class="rh-footer-logo-item" src="{!! env('WP_HOME') !!}/styleguide5.0.0/images/components/kommuner_logo/RegionHalland.png" alt="RegionHalland Logo"></a>
@@ -19,7 +19,7 @@
         <a href="https://varberg.se/"><img class="rh-footer-logo-item" src="{!! env('WP_HOME') !!}/styleguide5.0.0/images/components/kommuner_logo/Varberg.png" alt="Varberg Logo"></a>
     </div>
 
-</footer>
+</div>
 
 <script src="{!! env('WP_HOME') !!}/include/scripts/jquery.3.3.1.min.js?ver=3.3.1"></script>
 
