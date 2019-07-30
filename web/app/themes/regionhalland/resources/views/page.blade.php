@@ -8,11 +8,12 @@
 			@php($myParentPage = get_region_halland_parent_page())
 				<div class="pb3">
 					@if($myParentPage['has_back'] == 1)
-						<a href="{{$myParentPage['url']}}" class="rh-round-button--vuxhalland rh-round-button icon-arrow-left"></a>
-						<a href="{{$myParentPage['url']}}" class="pl1 rh-link--navigation">{{$myParentPage['post_title']}}</a>
+						@php($id=uniqid())
+						<a href="{{$myParentPage['url']}}" aria-labelledby="{{$id}}" class="rh-round-button--vuxhalland rh-round-button icon-arrow-left"></a>
+						<a href="{{$myParentPage['url']}}" id="{{$id}}" class="pl1 rh-link--navigation">{{$myParentPage['post_title']}}</a>
 
 					@else
-						<a href="/" class="rh-round-button--vuxhalland rh-round-button icon-arrow-left"></a>
+						<a href="/" aria-label="Tillbaka till startsidan" class="rh-round-button--vuxhalland rh-round-button icon-arrow-left"></a>
 						<a href="/" class="pl1 rh-link--navigation">Startsidan</a>
 					@endif
 				</div>
