@@ -28,7 +28,7 @@
 					@endwhile
 				</div>
 				<div class="pl4 col col-12 md-col-3">
-					@include('partials.content-nav')
+					@include('partials.navigation.content-nav')
 				</div>
 			</div>
 		</div>

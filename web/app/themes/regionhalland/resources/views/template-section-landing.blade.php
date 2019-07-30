@@ -18,6 +18,6 @@
             <a href="/" class="pl1 rh-link--navigation">Startsidan</a>
         @endif
     </div>
-    @include('partials.new_blurbs-list')
-    @include('partials.section-navigation')
+    @include('partials.content.blurbs-list')
+    @include('partials.navigation.section-navigation')
 @endsection

@@ -2,10 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c2166d5-ef4b-4293-a667-30ce255285ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/web/styleguide5.0.0/images/components/kommuner_logo/Falkenberg_old.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/styleguide5.0.0/images/components/kommuner_logo/Falkenberg.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/styleguide5.0.0/images/components/kommuner_logo/Falkenberg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/page.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/page.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/breadcrumbs.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/navigation/breadcrumbs.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/content-nav.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/navigation/content-nav.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/cookie-notice.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/messages/cookie-notice.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/entry-meta.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/content/entry-meta.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/sitewide/footer.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/navigation/header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/hero.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/content/hero.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/jump-to-content.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/sitewide/jump-to-content.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/nav-sidebars.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/navigation/nav-sidebars.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/nav-site.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/navigation/nav-site.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/new_blurbs-list.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/content/blurbs-list.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/section-navigation.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/navigation/section-navigation.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/updated-time.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/content/updated-time.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/template-section-landing.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/template-section-landing.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,66 +34,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/layouts/app.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#html#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/template-section-landing.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/template-lista-utbildningar.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/single-utbildning.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1403">
-              <caret line="61" column="4" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/page.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/front-page.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+            <state relative-caret-position="1242">
+              <caret line="54" column="22" lean-forward="true" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+              <folding>
+                <element signature="e#184#229#0#HTML" expanded="true" />
+                <element signature="e#510#569#0#HTML" expanded="true" />
+                <element signature="e#608#664#0#HTML" expanded="true" />
+                <element signature="e#747#824#0#HTML" expanded="true" />
+                <element signature="e#1661#1722#0#HTML" expanded="true" />
+                <element signature="e#1761#1817#0#HTML" expanded="true" />
+                <element signature="e#1900#1977#0#HTML" expanded="true" />
+                <element signature="e#2815#2875#0#HTML" expanded="true" />
+                <element signature="e#2914#2970#0#HTML" expanded="true" />
+                <element signature="e#3053#3130#0#HTML" expanded="true" />
+                <element signature="e#3948#3974#0#HTML" expanded="true" />
+                <element signature="e#4233#4258#0#HTML" expanded="true" />
+                <element signature="e#4812#4851#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/404.blade.php">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -89,10 +64,57 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/footer.blade.php">
+        <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/content/entry-meta.blade.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/front-sidor.blade.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/nyheter.blade.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/content/updated-time.blade.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/content/hero.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="87" selection-start-line="3" selection-start-column="87" selection-end-line="3" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/content/blurbs-list.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/sitewide/footer.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="460">
               <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/navigation/header.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -147,8 +169,8 @@
         <option value="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/footer.blade.php" />
         <option value="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/template-lista-utbildningar.blade.php" />
         <option value="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/page.blade.php" />
-        <option value="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/front-page.blade.php" />
         <option value="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/layouts/app.blade.php" />
+        <option value="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/front-page.blade.php" />
       </list>
     </option>
   </component>
@@ -277,7 +299,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/content" />
+      <recent name="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/navigation" />
       <recent name="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/sitewide" />
+      <recent name="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/messages" />
+      <recent name="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials" />
@@ -318,16 +344,15 @@
       <workItem from="1560333829248" duration="1173000" />
       <workItem from="1561459840786" duration="224000" />
       <workItem from="1561555292553" duration="1252000" />
-      <workItem from="1564489872721" duration="985000" />
+      <workItem from="1564489872721" duration="1926000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85019000" />
+    <option name="totallyTimeSpent" value="85960000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8605732" visible="true" weight="0.26874003" />
       <window_info id="Structure" order="1" sideWeight="0.1394268" side_tool="true" weight="0.19976076" />
@@ -377,24 +402,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/wp/wp-admin/update.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="285" />
-          <folding>
-            <element signature="e#6#121#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/wp/wp-includes/update.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1081">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/single-nyhet.blade.php" />
     <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -406,7 +413,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/template-start.blade.php" />
-    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/nav-sidebars.blade.php">
+    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/navigation/nav-sidebars.blade.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/web/styleguide4.0.0/js/components.js" />
@@ -476,7 +483,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/nav-front.blade.php" />
-    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/jump-to-content.blade.php">
+    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/sitewide/jump-to-content.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="66" selection-start-column="66" selection-end-column="66" />
@@ -498,28 +505,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/nyheter.blade.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/new_blurbs-list.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-          <folding>
-            <element signature="e#119#166#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/style.css">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/header.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
@@ -542,14 +529,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/hero.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="87" selection-start-line="3" selection-start-column="87" selection-end-line="3" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/cookie-notice.blade.php">
+    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/messages/cookie-notice.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
@@ -560,7 +540,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/nav-site.blade.php">
+    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/navigation/nav-site.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
           <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
@@ -574,14 +554,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/content-nav.blade.php">
+    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/navigation/content-nav.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/breadcrumbs.blade.php">
+    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/navigation/breadcrumbs.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
@@ -609,20 +589,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/section-navigation.blade.php">
+    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/navigation/section-navigation.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="9" column="33" selection-start-line="6" selection-start-column="20" selection-end-line="9" selection-end-column="33" />
           <folding>
             <element signature="n#style#0;n#a#0;n#strong#0;n#div#0;n#li#0;n#ul#0;n#nav#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/footer.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
@@ -657,16 +630,6 @@
     <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/404.blade.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/article.blade.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/front-page.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/layouts/app.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
@@ -676,6 +639,71 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/front-page.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="54" column="22" lean-forward="true" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+          <folding>
+            <element signature="e#184#229#0#HTML" expanded="true" />
+            <element signature="e#510#569#0#HTML" expanded="true" />
+            <element signature="e#608#664#0#HTML" expanded="true" />
+            <element signature="e#747#824#0#HTML" expanded="true" />
+            <element signature="e#1661#1722#0#HTML" expanded="true" />
+            <element signature="e#1761#1817#0#HTML" expanded="true" />
+            <element signature="e#1900#1977#0#HTML" expanded="true" />
+            <element signature="e#2815#2875#0#HTML" expanded="true" />
+            <element signature="e#2914#2970#0#HTML" expanded="true" />
+            <element signature="e#3053#3130#0#HTML" expanded="true" />
+            <element signature="e#3948#3974#0#HTML" expanded="true" />
+            <element signature="e#4233#4258#0#HTML" expanded="true" />
+            <element signature="e#4812#4851#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/sitewide/footer.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/navigation/header.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/article.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/content/entry-meta.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/content/hero.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="87" selection-start-line="3" selection-start-column="87" selection-end-line="3" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/content/blurbs-list.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/front-sidor.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/nyheter.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app/themes/regionhalland/resources/views/partials/content/updated-time.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

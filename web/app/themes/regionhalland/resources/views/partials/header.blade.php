@@ -1,3 +1,3 @@
-@include('partials.nav-site')
-@include('partials.hero')
-@include('partials.breadcrumbs')
+@include('partials.navigation.nav-site')
+@include('partials.content.hero')
+@include('partials.navigation.breadcrumbs')
