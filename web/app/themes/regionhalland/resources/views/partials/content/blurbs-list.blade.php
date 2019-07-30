@@ -10,7 +10,7 @@
                     </div>
                     <div class="mx2 pt2 rh-blurb__description" >
                         @if($blurbs['link_title'])
-                            <h3><a href="{{ $blurbs['link_url'] }}" target="{{ $blurbs['link_target'] }}"  class="rh-link--navigation">{{ $blurbs['link_title'] }}</a></h3>
+                            <h2 class="h3"><a href="{{ $blurbs['link_url'] }}" target="{{ $blurbs['link_target'] }}"  class="rh-link--navigation">{{ $blurbs['link_title'] }}</a></h2>
                         @endif
                         <p>{{ $blurbs['post_content'] }}</p>
                     </div>
