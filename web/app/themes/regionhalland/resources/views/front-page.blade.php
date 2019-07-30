@@ -14,7 +14,7 @@
                             </div>
                             <div class="mx2 pt2 rh-blurb__description" >
                                 @if($myBlurbs[0]['link_title'])
-                                    <h3><a href="{{ $myBlurbs[0]['link_url'] }}" class="rh-link--navigation" target="{{ $myBlurbs[0]['link_target'] }}">{{ $myBlurbs[0]['link_title'] }}</a></h3>
+                                    <h2 class="h3"><a href="{{ $myBlurbs[0]['link_url'] }}" class="rh-link--navigation" target="{{ $myBlurbs[0]['link_target'] }}">{{ $myBlurbs[0]['link_title'] }}</a></h2>
                                 @endif
                                 <p>{{ $myBlurbs[0]['post_content'] }}</p>
                             </div>
@@ -30,7 +30,7 @@
                             </div>
                             <div class="rh-blurb__description mx2 pt2" >
                                 @if($myBlurbs[1]['link_title'])
-                                    <h3><a href="{{ $myBlurbs[1]['link_url'] }}" class="rh-link--navigation" target="{{ $myBlurbs[1]['link_target'] }}">{{ $myBlurbs[1]['link_title'] }}</a></h3>
+                                    <h2 class="h3"><a href="{{ $myBlurbs[1]['link_url'] }}" class="rh-link--navigation" target="{{ $myBlurbs[1]['link_target'] }}">{{ $myBlurbs[1]['link_title'] }}</a></h2>
                                 @endif
                                 <p>{{ $myBlurbs[1]['post_content'] }}</p>
                             </div>
@@ -46,7 +46,7 @@
                             </div>
                             <div class="mx2 pt2 rh-blurb__description">
                                 @if($myBlurbs[2]['link_title'])
-                                    <h3><a href="{{ $myBlurbs[2]['link_url'] }}" class="rh-link--navigation" target="{{ $myBlurbs[2]['link_target'] }}">{{ $myBlurbs[2]['link_title'] }}</a></h3>
+                                    <h2 class="h3"><a href="{{ $myBlurbs[2]['link_url'] }}" class="rh-link--navigation" target="{{ $myBlurbs[2]['link_target'] }}">{{ $myBlurbs[2]['link_title'] }}</a></h2>
                                 @endif
                                 <p>{{ $myBlurbs[2]['post_content'] }}</p>
                             </div>
