@@ -6,7 +6,7 @@
             @php($id=uniqid())
             <li class="rh-navigation-card col col-12 sm-col-6 md-col-4 lg-col-4 px3" style="position:relative">
                 <div class="rh-navigation-card-title">
-                    <a href="{{ $page->url }}" aria-labelledby="{{$id}}" class="rh-round-button rh-round-button--small rh-round-button--vuxhalland icon-arrow-right"></a>
+                    <a href="{{ $page->url }}" tabindex="-1" aria-labelledby="{{$id}}" class="rh-round-button rh-round-button--small rh-round-button--vuxhalland icon-arrow-right"></a>
                     <strong><a href="{{ $page->url }}" id="{{$id}}" class="h3 rh-link--navigation" style="line-height: 1.4;">
                         {{ $page->post_title }}
                     </a></strong>

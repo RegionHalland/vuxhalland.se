@@ -12,13 +12,13 @@
     <div class="rh-toplinks" style="background: #F8F6F4;">
         <ul class="rh-toplinks-nav" aria-label="Genvägar i sidhuvudet">
             <li class="rh-block-on-mobile" style="line-height:2">
-                <a onclick="toggleBar();" aria-labelledby="bapluslogo" href="#" class="icon-volume-1 rh-round-button rh-round-button--vuxhalland"></a>
+                <a onclick="toggleBar();" tabindex="-1" aria-labelledby="bapluslogo" href="#" class="icon-volume-1 rh-round-button rh-round-button--vuxhalland"></a>
                 <a id="bapluslogo" class="rh-toplinks-nav-link logo" title="Aktivera Talande Webb" onclick="toggleBar();" href="#">
                     Talande Webb
                 </a>
             </li>
             <li class="rh-block-on-mobile" style="line-height:2">
-                <a href="./om-oss" aria-labelledby="{{$id}}" class="icon-arrow-right rh-round-button rh-round-button--vuxhalland"></a>
+                <a href="./om-oss" tabindex="-1" aria-labelledby="{{$id}}" class="icon-arrow-right rh-round-button rh-round-button--vuxhalland"></a>
                 <a id="{{$id}}" class="rh-toplinks-nav-link logo pr3" href="./om-oss">
                     Om oss
                 </a>
