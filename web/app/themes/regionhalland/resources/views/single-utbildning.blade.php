@@ -1,4 +1,10 @@
 {{--
+
+Används inte så länge vi länkar vidare från utbildningslistan och inte presenterar utbildningarna direkt på sajten.
+
+--}}
+
+{{--
 @extends('layouts.app')
 
 @section('content') 	
