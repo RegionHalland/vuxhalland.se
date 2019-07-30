@@ -1,5 +1,6 @@
 @extends('layouts.app')
 @section('content')
+
     @php($myBlurbs = get_region_halland_acf_main_post_page_links_blurbs())
     @if($myBlurbs)
 
@@ -61,10 +62,11 @@
             <ul class="flex flex-wrap px3 pt3 center" aria-label="Undersidor" style="max-width: 1440px;">
                 @php($first_level_pages = get_region_halland_tree_first_level())
                 @foreach($first_level_pages as $index => $page)
+                    @php( $id = uniqid())
                     <li class="rh-navigation-card left-align col-12 sm-col-6 md-col-4 lg-col-3 pr2" style="position:relative">
                         <div class="rh-navigation-card-title">
-                            <a href="{{ $page->url }}" class="rh-round-button rh-round-button--small rh-round-button--vuxhalland icon-arrow-right"></a>
-                            <strong><a href="{{ $page->url }}" class="h3 rh-link--navigation">
+                            <a href="{{ $page->url }}" aria-labelledby="{{ $id }}" class="rh-round-button rh-round-button--small rh-round-button--vuxhalland icon-arrow-right"></a>
+                            <strong><a id="{{ $id }}" href="{{ $page->url }}" class="h3 rh-link--navigation">
                                     {{ $page->post_title }}
                                 </a></strong>
                         </div>
