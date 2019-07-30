@@ -12,7 +12,9 @@
                             <img src="{!! $myBlurbs[0]['image_url'] !!}" style="width:100%; position: absolute; top:50%; transform: translateY(-50%);">
                         </div>
                         <div class="mx2 pt2 rh-blurb__description" >
-                            <h3><a href="{{ $myBlurbs[0]['link_url'] }}" class="rh-link--navigation" target="{{ $myBlurbs[0]['link_target'] }}">{{ $myBlurbs[0]['link_title'] }}</a></h3>
+                            @if($myBlurbs[0]['link_title'])
+                                <h3><a href="{{ $myBlurbs[0]['link_url'] }}" class="rh-link--navigation" target="{{ $myBlurbs[0]['link_target'] }}">{{ $myBlurbs[0]['link_title'] }}</a></h3>
+                            @endif
                             <p>{{ $myBlurbs[0]['post_content'] }}</p>
                         </div>
                     </div>
@@ -26,7 +28,9 @@
                             <img src="{!! $myBlurbs[1]['image_url'] !!}" style="width:100%; position: absolute; top:50%; transform: translateY(-50%);">
                         </div>
                         <div class="rh-blurb__description mx2 pt2" >
-                            <h3><a href="{{ $myBlurbs[1]['link_url'] }}" class="rh-link--navigation" target="{{ $myBlurbs[1]['link_target'] }}">{{ $myBlurbs[1]['link_title'] }}</a></h3>
+                            @if($myBlurbs[1]['link_title'])
+                                <h3><a href="{{ $myBlurbs[1]['link_url'] }}" class="rh-link--navigation" target="{{ $myBlurbs[1]['link_target'] }}">{{ $myBlurbs[1]['link_title'] }}</a></h3>
+                            @endif
                             <p>{{ $myBlurbs[1]['post_content'] }}</p>
                         </div>
                     </div>
@@ -40,7 +44,9 @@
                             <img src="{!! $myBlurbs[2]['image_url'] !!}" style="width:100%; position: absolute; top:50%; transform: translateY(-50%);">
                         </div>
                         <div class="mx2 pt2 rh-blurb__description">
-                            <h3><a href="{{ $myBlurbs[2]['link_url'] }}" class="rh-link--navigation" target="{{ $myBlurbs[2]['link_target'] }}">{{ $myBlurbs[2]['link_title'] }}</a></h3>
+                            @if($myBlurbs[2]['link_title'])
+                                <h3><a href="{{ $myBlurbs[2]['link_url'] }}" class="rh-link--navigation" target="{{ $myBlurbs[2]['link_target'] }}">{{ $myBlurbs[2]['link_title'] }}</a></h3>
+                            @endif
                             <p>{{ $myBlurbs[2]['post_content'] }}</p>
                         </div>
                     </div>
