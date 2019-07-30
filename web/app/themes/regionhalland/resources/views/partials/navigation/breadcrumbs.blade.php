@@ -3,7 +3,7 @@
 	@php($breadcrumbs = get_region_halland_breadcrumbs_pages())
 	@if(isset($breadcrumbs))
 
-			<ul class="rh-breadcrumbs pl3 mx-auto" style="max-width:1440px;">
+			<ul class="rh-breadcrumbs pl3 mx-auto" aria-label="Brödsmulor" style="max-width:1440px;">
 				@foreach ($breadcrumbs as $breadcrumb)
 					<li class="rh-breadcrumbs__item" itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
 						@if ($breadcrumb['url'])
