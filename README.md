@@ -40,6 +40,9 @@ Du bör nu kunna nå Wordpress webbinstallerare från din sajts URL. Om du har e
     
 ## Versionshistorik
 
+### 1.2.0
+- Sorterat kommunerna i bokstavsordning
+
 ### 1.1.0
 - Justering av tillgänglighet, dvs nästling, kontrast, attribut m.m.
 - nya och uppdaterade plugins inkluderat licensmodell
