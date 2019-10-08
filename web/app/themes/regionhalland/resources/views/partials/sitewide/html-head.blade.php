@@ -21,7 +21,7 @@
 		<title>{{ $myPostType }} - Vuxhalland</title>
 	@endif
     <link rel="stylesheet" type="text/css" href="{!! env('WP_HOME') !!}/include/alicdn/font_o5hd5vvqpoqiwwmi_190529.css">
-	<link href="{!! env('WP_HOME') !!}/styleguide_cdn/vuxhalland.1.1.0-5.1.0.css" rel="stylesheet"/>
+	<link href="{!! env('WP_HOME') !!}/styleguide5.0.0/css/components.css" rel="stylesheet"/>
 	<link rel="stylesheet" href="{!! env('WP_HOME') !!}/include/style/development.css" type="text/css" media="all" />
 	<style>
 		.rh-article ul {
@@ -34,7 +34,6 @@
 			padding-left: 2ex;
 			line-height: 1.37em;
 		}
-
 	</style>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-141325041-1"></script>
